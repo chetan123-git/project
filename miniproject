@@ -2,5 +2,10 @@ devops learnings
 linux
 git and github
 networking
+<<<<<<< Updated upstream
 docker
 k8s
+=======
+python
+aws
+>>>>>>> Stashed changes
